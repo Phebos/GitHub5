@@ -1,5 +1,5 @@
 # GitHub5
-LOCAL
+REMOTE
 
 j'écris quelques lignes
 de
